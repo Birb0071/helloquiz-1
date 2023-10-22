@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+
+/* font-family: 'Raleway', sans-serif; */
+
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+/* <!-- SECTION 1 STARTS --> */
+.part1{
+  display: flex;
+  margin-bottom: 100px;
+  margin-left: 60px;
+  
+}
+.part1 h1{
+  font-size: 50px;
+  color: grey;
+}
+
+.part1 p{
+  font-weight: bolder;
+  font-size: 25px;
+
+}
+.Bigflower-img img {
+margin-left: 60px;
+}
+/* <!-- SECTION 1 ENDS --> */
+
+
+/* part 2 */
+.part2 {
+  display: flex;
+  justify-content: center;
+  margin-left: 50px;
+  align-items: center;
+  margin-bottom: 100px;
+}
+
+.about-birb {
+  margin-left: 120px;
+  margin-right: 50px;
+}
+
+/*  part 2  */
+
+
+/* part 3 */
+.part3h{
+  margin-bottom: 40px;
+  margin-left: 20px;
+}
+
+.cube{
+  border: 2px solid black;
+  width: 450px;
+  padding: 15px;
+  margin: 15px 15px 15px;
+}
+
+.insider{
+  display: flex;
+  
+}
+/* part3 */
